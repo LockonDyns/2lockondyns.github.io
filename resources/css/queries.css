@@ -66,6 +66,7 @@
     
     .step-box:first-child {
         text-align: center;
+        margin-left: 0;
     }
     .app-screen { width: 40%; }
 
